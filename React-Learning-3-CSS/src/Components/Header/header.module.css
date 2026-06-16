@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 5px;
+}
+
+.btn{
+    background-color: aqua;
+    font-size: large;
+    padding: 5px;
+}
